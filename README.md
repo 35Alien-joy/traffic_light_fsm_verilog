@@ -38,7 +38,21 @@ The FSM cycles through these states with a timer counter controlling the duratio
 ![Waveform](traff_waveform.png)
 
 ---
+## 🛠 Tools Used
+
+- Verilog HDL
+- ModelSim (Intel FPGA Starter Edition)
+- VS Code
+
 
 ## 📂 Project Structure
+
+traffic_light_fsm_verilog
+│
+├── traffic_light.v        # RTL design
+├── traffic_light_tb.v     # Testbench
+├── state_diagram.png      # FSM diagram
+├── traff_waveform.png     # ModelSim waveform
+└── README.md
 
 
