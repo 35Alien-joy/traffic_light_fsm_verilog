@@ -29,14 +29,15 @@ The FSM cycles through these states with a timer counter controlling the duratio
 
 ## 📊 FSM State Diagram
 
-![State Diagram](diagrams/state_diagram .png)
+![State Diagram](state_diagram .png)
 
 ---
 
 ## 🖥 Simulation Waveform
 
-![Waveform](screenshots/traff_waveform.png)
+![Waveform](traff_waveform.png)
 
 ---
 
 ## 📂 Project Structure
+
