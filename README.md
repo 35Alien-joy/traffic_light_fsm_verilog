@@ -29,7 +29,7 @@ The FSM cycles through these states with a timer counter controlling the duratio
 
 ## 📊 FSM State Diagram
 
-![State Diagram](state_diagram .png)
+![State Diagram](state_diagram.png)
 
 ---
 
@@ -40,4 +40,5 @@ The FSM cycles through these states with a timer counter controlling the duratio
 ---
 
 ## 📂 Project Structure
+
 
